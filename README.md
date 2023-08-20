@@ -5,8 +5,5 @@ Todos os desafios solucionados com Go, caso você tenha uma sugestão para melho
 
 ## Lista de Desafios
 
-  - Triângulo de Pascal
-## Lista de Desafios
-
   - [Triângulo de Pascal](https://leetcode.com/problems/pascals-triangle/)
   - [Número Feliz](https://leetcode.com/problems/happy-number/)
