@@ -6,4 +6,5 @@ Todos os desafios solucionados com Go, caso você tenha uma sugestão para melho
 ## Lista de Desafios
 
   - [Triângulo de Pascal](https://leetcode.com/problems/pascals-triangle/)
+  - [Digitos Monótonos Crescentes](https://leetcode.com/problems/monotone-increasing-digits/)
   - [Número Feliz](https://leetcode.com/problems/happy-number/)
