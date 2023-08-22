@@ -7,5 +7,5 @@ import (
 
 func main() {
 	fmt.Println("Desafio:")
-	fmt.Println(desafios.HappyNumber(20))
+	fmt.Println(desafios.MonotoneIncreasignDigits(321))
 }
